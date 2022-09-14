@@ -1,5 +1,5 @@
 
-# Codepath---Flix-Part-1
+# Codepath---Flix
 Flix is an app that allows users to browse movies
 
 # Flix
@@ -20,7 +20,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/GWIwfUr.gif)
+![](https://i.imgur.com/acNuXfr.gif)
+
+
 
 
 
